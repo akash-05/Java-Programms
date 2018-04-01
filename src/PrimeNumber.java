@@ -4,6 +4,7 @@ public class PrimeNumber {
 	public static void main(String[] args) {
 		PrimeNumber pn = new PrimeNumber();
 		System.out.println(pn.prime(2));
+		
 
 	}
 
